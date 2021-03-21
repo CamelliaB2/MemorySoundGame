@@ -1,0 +1,103 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: lightcyan;
+  color: black;
+}
+
+.m12 {
+  font-family: copperplate;
+  color: navy;
+  font-weight: 900;
+  font-size: 2.5em;
+}
+
+.m12 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+
+p {
+  font-family: optima;
+}
+
+button {
+  padding: 10px;
+  border-radius: 30px;
+}
+
+#gameButtonArea > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+  border-radius: 100px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+  background: red;
+}
+
+#button1:active,
+#button1.lit {
+  background: #FA5858;
+}
+
+#button2 {
+  background: orange;
+}
+
+#button2:active,
+#button2.lit {
+  background: #FAAC58;
+}
+
+#button3 {
+  background: yellow;
+}
+
+#button3:active,
+#button3.lit {
+  background: #F3F781;
+}
+
+#button4 {
+  background: green;
+}
+
+#button4:active,
+#button4.lit {
+  background: lightgreen;
+}
+
+#button5 {
+  background: blue;
+}
+
+#button5:active,
+#button5.lit {
+  background: #2E64FE;
+}
+
+#button6 {
+  background: indigo;
+}
+
+#button6:active,
+#button6.lit {
+  background: #5858FA;
+}
+
+#button7 {
+  background: purple;
+}
+
+#button7:active,
+#button7.lit {
+  background: #AC58FA;
+}
