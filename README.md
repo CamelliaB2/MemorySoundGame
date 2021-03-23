@@ -38,8 +38,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of my game:
 ![MemorySound](https://user-images.githubusercontent.com/72722448/112225765-854dab00-8bea-11eb-9528-8baea2a294b4.gif)
+
+Here's proof that my game has audio:
+https://user-images.githubusercontent.com/72722448/112226519-761b2d00-8beb-11eb-89a5-75697d02c5c1.mp4
+
 
 
 
