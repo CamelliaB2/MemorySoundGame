@@ -39,7 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![]<img src="https://i.imgur.com/kQ15Rjr.mp4" width="100" height="100"/>
+![MemorySound](https://user-images.githubusercontent.com/72722448/112225765-854dab00-8bea-11eb-9528-8baea2a294b4.gif)
+
 
 
 ## Reflection Questions
