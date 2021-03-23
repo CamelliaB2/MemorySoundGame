@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![]<img src="https://i.imgur.com/kQ15Rjr.gif" width="100" height="100"/>
+![]<img src="https://i.imgur.com/kQ15Rjr.mp4" width="100" height="100"/>
 
 
 ## Reflection Questions
